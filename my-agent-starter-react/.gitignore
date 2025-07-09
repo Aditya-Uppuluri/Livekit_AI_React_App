@@ -1,2 +1,4 @@
 node_modules/
 my-agent-starter-react/node_modules/.pnpm/@next+swc-darwin-arm64@15.3.4/node_modules/@next/swc-darwin-arm64/next-swc.darwin-arm64.node
+# Ignore Next.js build directories
+.next/
